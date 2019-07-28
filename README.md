@@ -7,4 +7,4 @@
     <br>
 </p>
 
-<p> Socket programming in java was used to create this app where multiple user can chat with each other by logging in </p> 
+<h2> Socket programming in java was used to create this app where multiple user can chat with each other by logging in </h2> 
