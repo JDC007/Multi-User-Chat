@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/jdchy/Multi-User-Chat" target="muc">
-        <img alt="Multi-user-Chat" src="https://github.com/jdchy/Multi-User-Chat/tree/master/imgs" />
+        <img alt="Multi-user-Chat" src="https://github.com/jdchy/Multi-User-Chat/tree/master/imgs/multiuserchat.jpg" />
     </a>
     <br>
 </p>
