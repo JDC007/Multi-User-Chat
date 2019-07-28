@@ -1,2 +1,10 @@
-# Multi-User-Chat
-This is a project related to server socket created in java, where two user can communicate between themselves using a server. 
+<h1 align ="center">Multi-User Chat Using Java</h1>
+
+<p align="center">
+    <a href="https://github.com/jdchy/Multi-User-Chat" target="muc">
+        <img alt="Multi-user-Chat" src="https://github.com/jdchy/Multi-User-Chat/tree/master/imgs" />
+    </a>
+    <br>
+</p>
+
+<p> Socket programming in java was used to create this app where multiple user can chat with each other by logging in </p> 
